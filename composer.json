@@ -1,19 +1,21 @@
 {
-  "name": "enyo/dropzone",
-  "description": "Handles drag and drop of files for you.",
-  "homepage": "http://www.dropzonejs.com",
-  "keywords": [
-    "dragndrop",
-    "drag and drop",
-    "file upload",
-    "upload"
-  ],
-  "authors": [
-    {
-      "name": "Matias Meno",
-      "email": "m@tias.me",
-      "homepage": "http://www.yesmeno.com"
-    }
-  ],
-  "license": "MIT"
+    "name": "gaomingcode/dropzone",
+    "description": "Handles drag and drop of files for you.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "dragndrop", "drag and drop", "file upload", "upload"
+    ],
+    "homepage": "http://www.dropzonejs.com",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Matias Meno",
+            "email": "m@tias.me",
+            "homepage": "http://www.yesmeno.com"
+        }
+    ],
 }
