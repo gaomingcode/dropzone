@@ -1,4 +1,17 @@
-<img alt="Dropzone.js" src="https://raw.githubusercontent.com/dropzone/dropzone/assets/github-logo.svg" />
+# Dropzone.js
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/dropzone.svg)](https://github.com/gaomingcode/dropzone)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/dropzone)](https://github.com/gaomingcode/dropzone)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/dropzone)](https://github.com/gaomingcode/dropzone)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/dropzone
+```
+###
 
 Dropzone.js is a JavaScript library that turns any HTML element into a dropzone.
 This means that a user can drag and drop a file onto it, and the file gets
